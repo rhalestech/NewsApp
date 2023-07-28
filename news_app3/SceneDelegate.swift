@@ -1,8 +1,9 @@
+
 //
 //  SceneDelegate.swift
-//  news_app3
+//  news_app
 //
-//  Created by Ruben Hales on 7/28/23.
+//  Created by Ruben Hales on 3/30/23.
 //
 
 import UIKit
